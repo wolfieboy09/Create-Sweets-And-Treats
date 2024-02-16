@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createsweetsandtreets:item/blank"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "createsweetsandtreets:sugar_cookie_design": 1
+      },
+      "model": "createsweetsandtreets:item/sugar_cookie_0"
+    },
+    {
+      "predicate": {
+        "createsweetsandtreets:sugar_cookie_design": 2
+      },
+      "model": "createsweetsandtreets:item/sugar_cookie_1"
+    },
+    {
+      "predicate": {
+        "createsweetsandtreets:sugar_cookie_design": 3
+      },
+      "model": "createsweetsandtreets:item/sugar_cookie_2"
+    },
+    {
+      "predicate": {
+        "createsweetsandtreets:sugar_cookie_design": 4
+      },
+      "model": "createsweetsandtreets:item/sugar_cookie_3"
+    },
+    {
+      "predicate": {
+        "createsweetsandtreets:sugar_cookie_design": 5
+      },
+      "model": "createsweetsandtreets:item/sugar_cookie_4"
+    }
+  ]
+}

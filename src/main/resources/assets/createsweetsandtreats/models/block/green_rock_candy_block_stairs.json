@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "createsweetsandtreets:block/green_rock_candy_block",
+    "top": "createsweetsandtreets:block/green_rock_candy_block",
+    "side": "createsweetsandtreets:block/green_rock_candy_block"
+  },
+  "render_type": "solid"
+}

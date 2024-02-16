@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "createsweetsandtreets:block/chiseled_red_rock_candy_block",
+    "top": "createsweetsandtreets:block/chiseled_red_rock_candy_block",
+    "side": "createsweetsandtreets:block/chiseled_red_rock_candy_block"
+  },
+  "render_type": "solid"
+}

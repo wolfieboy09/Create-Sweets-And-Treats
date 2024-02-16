@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "up": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "north": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "east": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "south": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "west": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block",
+    "particle": "createsweetsandtreets:block/chiseled_yellow_rock_candy_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "up": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "north": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "east": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "south": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "west": "createsweetsandtreets:block/cut_rock_candy_purple",
+    "particle": "createsweetsandtreets:block/cut_rock_candy_purple"
+  },
+  "render_type": "solid"
+}
